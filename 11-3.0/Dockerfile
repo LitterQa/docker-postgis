@@ -1,4 +1,4 @@
-FROM postgres:11
+FROM postgres:11.8
 
 LABEL maintainer="PostGIS Project - https://postgis.net"
 
